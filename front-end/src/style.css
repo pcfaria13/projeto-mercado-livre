@@ -412,7 +412,7 @@ button {
   color: white;
   font-weight: 700;
   display: grid;
-  display: flex;
+  /* display: flex; */
   place-items: center;
   border-radius: 100%;
 }
@@ -492,5 +492,8 @@ button {
   }
   h2 {
     font-size: 21px;
+  }
+  .carrinho__numero {
+    align-items: center;
   }
 }
