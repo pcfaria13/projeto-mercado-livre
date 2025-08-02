@@ -55,8 +55,8 @@ const Footer = () => {
         <div className='copyright'>
           <p>Copyright © 1999-2025 Ebazar.com.br LTDA.</p>
           <p>
-            CNPJ n.º 03.007.331/0001-41 / Av. das Nações Unidas, nº 3.003,
-            Bonfim, Osasco/SP - CEP 06233-903 - empresa do grupo Mercado Livre.
+            CNPJ n.º 0.000.000/0000-00 / Av. das Nações Unidas, nº 3.003,
+            Bonfim, Cubatão/SP - CEP 11533170 - Desenvolvido por Pcfaria.
           </p>
         </div>
       </div>
